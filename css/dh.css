@@ -1,0 +1,23 @@
+ul {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+table {
+    border: 2px solid;
+    border-collapse: collapse;
+    margin: 20px;
+    border-color: blueviolet;
+}
+
+th, td {
+    border: 1px solid;
+    border-color: blueviolet;
+}
+
+img.tipos {
+    width: 25%;
+    margin: 30px;
+    display: inline-block;
+}
